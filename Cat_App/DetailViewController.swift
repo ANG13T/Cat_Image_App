@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  DetailViewController.swift
 //  Cat_App
 //
 //  Created by Angelina Tsuboi on 1/11/20.
@@ -8,13 +8,12 @@
 
 import UIKit
 
-class ViewController: UITableViewController {
+class DetailViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        title = "Catastic!"
+
+        // Do any additional setup after loading the view.
     }
-
-
+    
 }
-
